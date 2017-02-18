@@ -5,7 +5,7 @@
 
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Hello World! Bug 100 is Fixed.</h2>
 
 <%
 ApplicationContext context =new ClassPathXmlApplicationContext(new String[] {"beans.xml"});
